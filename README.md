@@ -8,8 +8,8 @@ Data Communication and Computer Networks Project on smart home automation with C
 - using the Simulator, we could identify every small detail about the network.
 
 Designing Smart Home using IoT Devices. With the automation and collaboration the devices in our home becomes smarter. It makes our life become comfortable and convinent.
-<span style="color:blue">text</span>
-###  Steps of connecting Devices and parts of home/office:
+
+### Steps of connecting Devices and parts of home/office:
 - **HOME GATEWAY** : Control point of other IoT Devices.
 - **Living Room** : Ceiling Fan & Window
 Wireless connection is established between Living room devices and Home Gateway.
